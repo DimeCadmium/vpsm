@@ -3,15 +3,15 @@ VPSM
 
 VPS Management Panel, by John Runyon ("DimeCadmium").
 
-Source code available at <https://github.com/DimeCadmium/vpsm/>
+Source code available at https://github.com/DimeCadmium/vpsm/
 
 
 License
 -------
 
-Licensed under the MIT License <http://www.tldrlegal.com/license/mit-license>:
+Licensed under the MIT License (http://www.tldrlegal.com/license/mit-license):
 
-Copyright 2013 John Runyon and others, see <https://github.com/DimeCadmium/vpsm/AUTHORS>.
+Copyright 2013 John Runyon.
  
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
  
@@ -64,3 +64,8 @@ Contributions
 -------------
 
 Code contributions welcome, submit a pull request. If you're not sure if a feature is in-progress ask DimeCadmium on freenode.
+
+Thanks
+------
+
+Financial: Secure Dragon LLC. (https://securedragon.net/)
