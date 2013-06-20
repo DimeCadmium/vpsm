@@ -1,0 +1,11 @@
+<?php
+
+if (!defined('ROOTPATH'))
+	die("Invalid access");
+
+/* Database settings */
+$config['db']['hostname'] = 'localhost';
+$config['db']['username'] = 'vpsm';
+$config['db']['password'] = 'somepass';
+$config['db']['database'] = 'vpsm';
+$config['db']['prefix']   = 'vpsm_';
