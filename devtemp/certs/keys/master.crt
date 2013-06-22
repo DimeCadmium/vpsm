@@ -1,0 +1,93 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1 (0x1)
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, ST=TX, L=Austin, O=VPSM, OU=VPSM, CN=ca.vpsm/name=VPSM/emailAddress=cert@vpsm.net
+        Validity
+            Not Before: Jun 22 16:11:16 2013 GMT
+            Not After : Jun 20 16:11:16 2023 GMT
+        Subject: C=US, ST=TX, L=Austin, O=VPSM, OU=VPSM, CN=master.vpsm/name=VPSM/emailAddress=cert@vpsm.net
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+            RSA Public Key: (2048 bit)
+                Modulus (2048 bit):
+                    00:cb:07:17:41:97:e1:c5:62:46:59:40:98:fc:fe:
+                    96:00:51:07:3d:d1:83:06:a0:61:c3:57:c2:19:9a:
+                    04:62:97:52:b2:7e:45:83:b2:f6:5f:b5:12:a5:b5:
+                    ef:b8:ab:58:97:76:99:8d:51:54:21:83:1e:80:d5:
+                    a6:73:91:c8:32:08:7c:b9:ab:50:89:44:ae:a0:59:
+                    92:90:04:24:5f:bd:74:41:61:bb:8f:e7:60:77:ac:
+                    1b:13:15:09:ab:73:ed:51:0d:e9:e6:f4:c9:ff:81:
+                    7a:25:f2:ef:38:16:1a:59:28:1f:1a:ba:9f:6e:69:
+                    c4:c5:83:01:03:83:49:13:fb:7d:bc:23:8d:e5:dc:
+                    9e:79:4a:36:4c:e6:95:f2:5a:d9:90:3d:0b:63:94:
+                    30:c8:6c:5d:62:1c:17:dd:ab:3b:bb:5d:9a:ad:d1:
+                    c7:d0:c7:20:aa:27:39:ff:6c:09:2c:b4:48:5d:19:
+                    c3:e0:03:ef:6d:13:2e:26:39:0c:71:83:44:3f:65:
+                    ec:6d:51:e8:41:ab:b8:bf:82:03:9e:38:0f:dd:fd:
+                    ff:d1:d7:31:05:b1:3d:7d:9b:0a:7d:e0:19:77:10:
+                    09:f7:cd:0a:0a:3d:e5:7d:5e:25:34:41:d0:e4:c1:
+                    31:c9:ab:f0:87:0e:3a:39:6f:58:38:ff:09:11:6a:
+                    51:b5
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                Easy-RSA Generated Certificate
+            X509v3 Subject Key Identifier: 
+                5A:52:B0:47:7A:9A:89:8E:78:99:EC:C1:4D:68:FD:D7:74:A2:68:38
+            X509v3 Authority Key Identifier: 
+                keyid:67:06:43:26:4A:A6:D4:48:E1:32:D4:B7:D7:0A:66:9C:22:42:6A:4A
+                DirName:/C=US/ST=TX/L=Austin/O=VPSM/OU=VPSM/CN=ca.vpsm/name=VPSM/emailAddress=cert@vpsm.net
+                serial:D8:29:0D:FD:78:72:5C:2D
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+    Signature Algorithm: sha256WithRSAEncryption
+        a5:b0:29:89:26:a3:22:54:d8:38:53:dc:82:22:33:44:ed:96:
+        92:95:8e:33:d9:bb:6d:1a:f3:72:82:c9:3a:1b:22:32:22:98:
+        92:a0:57:48:1e:c8:63:41:71:39:94:a9:89:6e:36:36:7b:e4:
+        92:95:2e:bb:4e:4e:2a:64:ae:ca:7a:7a:3c:1d:bc:95:2b:2a:
+        22:bb:13:15:a3:b4:8f:47:b3:37:02:fe:8a:e4:ce:f8:67:fa:
+        b9:43:f1:f9:53:8d:c2:56:46:6b:6d:bd:6a:de:56:ed:94:01:
+        ef:df:67:a6:84:88:85:76:d0:41:95:3d:5e:55:73:6a:18:65:
+        35:82:15:72:f8:80:55:07:9e:00:dd:6e:11:09:da:ce:cb:d4:
+        e2:f2:bc:61:88:5b:cc:9e:3d:e3:fb:8f:64:a2:2d:40:53:8b:
+        c7:4d:ab:2f:05:5e:80:3a:eb:40:a8:b3:cf:cc:50:e8:aa:21:
+        1c:ba:92:c3:c6:db:b8:49:ad:7d:d5:7d:59:4d:66:3a:f7:c9:
+        e7:1f:f7:ae:40:b2:c1:47:be:05:94:ee:97:09:e6:27:aa:21:
+        4e:bc:ec:d8:cf:17:b7:e0:41:ce:d0:97:6e:31:a7:fe:79:f8:
+        be:d9:2f:3f:f9:34:3b:53:8e:71:c6:a6:b0:11:d4:ee:5b:3d:
+        02:ab:c4:5a
+-----BEGIN CERTIFICATE-----
+MIIE0jCCA7qgAwIBAgIBATANBgkqhkiG9w0BAQsFADCBiDELMAkGA1UEBhMCVVMx
+CzAJBgNVBAgTAlRYMQ8wDQYDVQQHEwZBdXN0aW4xDTALBgNVBAoTBFZQU00xDTAL
+BgNVBAsTBFZQU00xEDAOBgNVBAMTB2NhLnZwc20xDTALBgNVBCkTBFZQU00xHDAa
+BgkqhkiG9w0BCQEWDWNlcnRAdnBzbS5uZXQwHhcNMTMwNjIyMTYxMTE2WhcNMjMw
+NjIwMTYxMTE2WjCBjDELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMQ8wDQYDVQQH
+EwZBdXN0aW4xDTALBgNVBAoTBFZQU00xDTALBgNVBAsTBFZQU00xFDASBgNVBAMT
+C21hc3Rlci52cHNtMQ0wCwYDVQQpEwRWUFNNMRwwGgYJKoZIhvcNAQkBFg1jZXJ0
+QHZwc20ubmV0MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAywcXQZfh
+xWJGWUCY/P6WAFEHPdGDBqBhw1fCGZoEYpdSsn5Fg7L2X7USpbXvuKtYl3aZjVFU
+IYMegNWmc5HIMgh8uatQiUSuoFmSkAQkX710QWG7j+dgd6wbExUJq3PtUQ3p5vTJ
+/4F6JfLvOBYaWSgfGrqfbmnExYMBA4NJE/t9vCON5dyeeUo2TOaV8lrZkD0LY5Qw
+yGxdYhwX3as7u12ardHH0Mcgqic5/2wJLLRIXRnD4APvbRMuJjkMcYNEP2XsbVHo
+Qau4v4IDnjgP3f3/0dcxBbE9fZsKfeAZdxAJ980KCj3lfV4lNEHQ5MExyavwhw46
+OW9YOP8JEWpRtQIDAQABo4IBPzCCATswCQYDVR0TBAIwADAtBglghkgBhvhCAQ0E
+IBYeRWFzeS1SU0EgR2VuZXJhdGVkIENlcnRpZmljYXRlMB0GA1UdDgQWBBRaUrBH
+epqJjniZ7MFNaP3XdKJoODCBvQYDVR0jBIG1MIGygBRnBkMmSqbUSOEy1LfXCmac
+IkJqSqGBjqSBizCBiDELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlRYMQ8wDQYDVQQH
+EwZBdXN0aW4xDTALBgNVBAoTBFZQU00xDTALBgNVBAsTBFZQU00xEDAOBgNVBAMT
+B2NhLnZwc20xDTALBgNVBCkTBFZQU00xHDAaBgkqhkiG9w0BCQEWDWNlcnRAdnBz
+bS5uZXSCCQDYKQ39eHJcLTATBgNVHSUEDDAKBggrBgEFBQcDAjALBgNVHQ8EBAMC
+B4AwDQYJKoZIhvcNAQELBQADggEBAKWwKYkmoyJU2DhT3IIiM0TtlpKVjjPZu20a
+83KCyTobIjIimJKgV0geyGNBcTmUqYluNjZ75JKVLrtOTipkrsp6ejwdvJUrKiK7
+ExWjtI9HszcC/orkzvhn+rlD8flTjcJWRmttvWreVu2UAe/fZ6aEiIV20EGVPV5V
+c2oYZTWCFXL4gFUHngDdbhEJ2s7L1OLyvGGIW8yePeP7j2SiLUBTi8dNqy8FXoA6
+60Cos8/MUOiqIRy6ksPG27hJrX3VfVlNZjr3yecf965AssFHvgWU7pcJ5ieqIU68
+7NjPF7fgQc7Ql24xp/55+L7ZLz/5NDtTjnHGprAR1O5bPQKrxFo=
+-----END CERTIFICATE-----
